@@ -50,7 +50,7 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=Tejaswita1203&hide_border=true&theme=transparent" />
 </p>
 
 ---
