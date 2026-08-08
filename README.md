@@ -30,7 +30,7 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 
 ### 📊 Observability
 
-`OpenTelemetry` · `CloudWatch` · `Last9`
+`OpenTelemetry` · `CloudWatch` · `Last9` · `Prometheus` · `Grafana`
 
 ---
 
@@ -41,7 +41,7 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 * 🏗️ **Infrastructure as Code** — Pulumi & Terraform
 * 🔄 **CI/CD** — GitHub Actions, GitLab CI, Jenkins & ArgoCD
 * 📦 **Containers** — Docker, ECS, EKS, Fargate
-* 📈 **Observability** — OpenTelemetry, CloudWatch & Last9
+* 📈 **Observability** — OpenTelemetry, CloudWatch, Prometheus, Grafana & Last9
 * 🔐 **Cloud Security** — IAM, RBAC, Workload Identity & security automation
 * ⚡ **Reliability & Cost Optimization** — performance, scaling, automation & cloud cost reduction
 
