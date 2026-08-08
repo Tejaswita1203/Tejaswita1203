@@ -18,7 +18,7 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 
 ### 🏗️ Infrastructure as Code
 
-<p> <img src="https://skillicons.dev/icons?i=terraform" /> <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=terraform" /> <img src="https://brand.pulumi.com/media/images/logos/web.svg" height="40" /> </p>
 
 ### ⚙️ CI/CD
 
@@ -61,14 +61,6 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tejaswita1203&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
 ## 🔗 Connect
 
 <p>
@@ -78,10 +70,4 @@ I enjoy turning manual infrastructure into automated systems and solving problem
   <a href="https://github.com/Tejaswita1203">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Automate. Observe. Scale. Keep systems reliable.</i>
 </p>
