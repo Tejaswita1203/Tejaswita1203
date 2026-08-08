@@ -22,11 +22,11 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 
 ### ⚙️ CI/CD
 
-<p> <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,argo" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins" /> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" /> </p>
 
 ### 💻 Languages & Tools
 
-<p> <img src="https://skillicons.dev/icons?i=java,python,bash,linux,git" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,python,linux,git" /> </p>
 
 ### 📊 Observability
 
