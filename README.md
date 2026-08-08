@@ -16,17 +16,17 @@ I enjoy turning manual infrastructure into automated systems and solving problem
   <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker" />
 </p>
 
-### ⚙️ Infrastructure as Code & CI/CD
+### 🏗️ Infrastructure as Code
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pulumi,terraform,githubactions,gitlab,jenkins,argo" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=terraform" /> <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" /> </p>
+
+### ⚙️ CI/CD
+
+<p> <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,argo" /> </p>
 
 ### 💻 Languages & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,jave,bash,linux,git" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=java,python,bash,linux,git" /> </p>
 
 ### 📊 Observability
 
@@ -50,12 +50,12 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejaswita1203&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswita1203&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=Tejaswita1203&hide_border=true&theme=transparent" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejaswita1203&hide_border=true&area=true&theme=github-compact" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejaswita1203&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 ---
@@ -79,10 +79,10 @@ I enjoy turning manual infrastructure into automated systems and solving problem
 ## 🔗 Connect
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/tejaswita-soni/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Tejaswita1203">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
